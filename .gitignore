@@ -1,0 +1,13 @@
+# Eclipse compiled files
+build/
+*.class
+
+# Eclipse workspace settings
+.metadata/
+
+# Temporary files
+*.log
+*.tmp
+
+# Sensitive configuration
+.env
